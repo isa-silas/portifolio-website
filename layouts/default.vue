@@ -2,7 +2,7 @@
 <template>
   <div class="w-full h-full">
     <div class="w-full h-20vh flex flex-row items-center justify-between bg-green-light">
-      <img class="logo" src="../assets/images/dinosaur (1).png" />
+      <img class="logo" src="../assets/images/dev girl happy.png" />
 
       <div class="right_menu">
         <!-- Moon Icon (Visible in Light Mode) -->
@@ -84,7 +84,7 @@ export default defineComponent({
 }
 
 .logo {
-  padding: 5px;
+  padding: 8px;
   width: 5%;
   margin-left: 5%;
 }

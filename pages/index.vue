@@ -62,7 +62,6 @@ export default defineComponent({
           >
             <Icon
               :name="option.icon"
-              :style="{ color: lightMode ? 'green-light' : 'black'}"
             />
             <h3 class="option_item_label" :style="{cursor: 'pointer'}">{{ option.label }}</h3>
           </div>
